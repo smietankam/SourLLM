@@ -1,0 +1,9 @@
+I
+see
+cats
+<BOS>
+je
+vois
+les
+chats
+<EOS>
